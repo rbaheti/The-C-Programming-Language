@@ -21,5 +21,7 @@
  */
 int main(int argc, char** argv) {
     // Your code here 
+    printf(argv[1], argv[2]);
+    printf("\n%d\n", argc);
 }
 
